@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DeivYSouza
+- 👋 Hi, I’m @DeivysonSouza
 - 👀 I’m interested in javascript, c#, css, html, android and python
-- 🌱 I’m currently learning everything possible but more focus on javascript 
+- 🌱 I’m currently learning everything possible but more focus on javascript and sql database 
 - 💞️ I’m looking to collaborate on good people
 - 📫 How to reach me
 
